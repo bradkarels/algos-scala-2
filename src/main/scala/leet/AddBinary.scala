@@ -1,5 +1,5 @@
 package io.rev27
-package io.rev27.leet
+package leet
 
 import scala.annotation.tailrec
 

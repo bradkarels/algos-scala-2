@@ -1,5 +1,5 @@
 package io.rev27
-package io.rev27.leet
+package leet
 
 import org.scalatest.flatspec.AnyFlatSpec
 import org.scalatest.matchers.should
