@@ -25,6 +25,7 @@ object CanPlaceFlowers {
     }
   }
 
+  // TODO: Can be faster with IDXs
   @tailrec
   def dcpf(fb: Array[Int], n: Int): Boolean = {
     if (n == 0) true
